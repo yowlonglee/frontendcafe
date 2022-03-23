@@ -1,12 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "frontend-cafe",
   "private": true,
   "description": "A starter for a blog powered by Gatsby and Markdown",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
-  },
+  "author": "Yow-Long Lee <yowlonglee@frontendcafe.dev>",
   "dependencies": {
     "gatsby": "^4.9.1",
     "gatsby-plugin-feed": "^4.9.0",

@@ -141,7 +141,7 @@ nvm install --lts
 
 這裡解釋一下 Node.js 的開發流程，為了兼顧開發及運用雙方的需求，每個版本的 Node.js 會經歷幾個開發時期。
 
-![Node.js development schedule](./schedule.svg)
+![Node.js development schedule](./schedule.png)
 （Node.js 開發時程表。來源：[Node.js 官網](https://nodejs.org/en/about/releases/)）
 
 首先是 Current 時期，在這個時候會大量加入新功能，讓一些基於 Node.js 的程式庫開發能趕上更新。

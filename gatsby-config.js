@@ -7,9 +7,9 @@ module.exports = {
     },
     description: `A blog of my learnings in frontend development`,
     siteUrl: `https://frontendcafe.dev/`,
-    social: {
-      twitter: `yowlonglee`,
-    },
+    // social: {
+    //   twitter: `yowlonglee`,
+    // },
   },
   plugins: [
     `gatsby-plugin-image`,

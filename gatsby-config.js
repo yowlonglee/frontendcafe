@@ -3,7 +3,7 @@ module.exports = {
     title: `Frontend Cafe`,
     author: {
       name: `Yow-Long Lee`,
-      summary: `attention to details.`,
+      summary: `Hi，我是侑龍，很高興在廣大網海中與你相遇。這個網站是我學習的記錄和軌跡，主要是網頁前端開發的筆記，還有跑步訓練和個人成長等的心得。`,
     },
     description: `A blog of my learnings in frontend development`,
     siteUrl: `https://frontendcafe.dev/`,
@@ -113,15 +113,15 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Frontend Cafe`,
+        short_name: `FC`,
         start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/favicon-32x32.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-react-helmet`,

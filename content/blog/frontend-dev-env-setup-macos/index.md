@@ -1,6 +1,6 @@
 ---
-title: 建立 macOS 的前端開發環境
-date: "2019-12-06"
+title: "建立 macOS 的前端開發環境"
+date: 2019-12-06 16:00:01
 draft: false
 slug: "/posts/frontend-development-setup-on-macos/"
 category: "Development"

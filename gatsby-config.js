@@ -1,3 +1,6 @@
+require("dotenv").config({
+  path: `.env.${process.env.NODE_ENV}`,
+})
 module.exports = {
   siteMetadata: {
     title: `Frontend Cafe`,
@@ -54,7 +57,7 @@ module.exports = {
     // {
     //   resolve: `gatsby-plugin-google-analytics`,
     //   options: {
-    //     trackingId: `ADD YOUR TRACKING ID HERE`,
+    //     trackingId: `UA-154754923-1`,
     //   },
     // },
     {
